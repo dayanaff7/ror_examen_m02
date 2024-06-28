@@ -1,0 +1,19 @@
+body{
+    
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin: 0;
+    text-align: center;
+    color: fff;
+}
+nav{
+    font-size: 1.2em; 
+}
+.navbar-title-white {
+    color: white;
+    text-align: justify;
+}
+.bordes-p {
+    max-width: 99.4em;
+    margin: 0 auto;
+}
