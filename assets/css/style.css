@@ -1,5 +1,5 @@
 body{
-    
+    background-color: black;
     font-family: 'Open Sans', sans-serif;
     text-align: center;
     margin: 0;
@@ -8,12 +8,42 @@ body{
 }
 nav{
     font-size: 1.2em; 
+    color: #fff;
 }
 .navbar-title-white {
     color: white;
-    text-align: justify;
+    text-align:justify;
+}
+.navbar-menu{
+    color: white;
 }
 .bordes-p {
-    max-width: 99.4em;
+    max-width: 90.4em;
     margin: 0 auto;
+}
+.carousel-item{
+    height: 100vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    background-size: cover;
+}
+.parrafo{
+    color: white;
+    text-align:left;
+}
+.bordes-x {
+    margin: 0 auto;
+    border: 0;
+    background-color: black;
+    
+}
+.bordes-z {
+ 
+    background-color: black;
+}
+#Presentacion{
+    padding: 2em;
+}
+#back-p{
+    background-color: black;
 }
