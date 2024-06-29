@@ -33,7 +33,7 @@ nav{
 }
 .bordes-x {
     margin: 0 auto;
-    border: 0;
+    border: 1px;
     background-color: black;
     
 }
@@ -44,6 +44,34 @@ nav{
 #Presentacion{
     padding: 2em;
 }
+#Presentacion i{
+    font-size: 1.7em;
+    color: #fff;
+}
 #back-p{
     background-color: black;
+}
+#titulos {
+    color: #fff;
+}
+.custom-hr {
+    width: 45%; 
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#Destacados{
+    padding: 2em;
+}
+#Destacados div{
+    border: 0px;
+
+
+}
+#Destacados img{
+    height: 10em;
+} 
+#Destacados p{
+    color: #fff;
+    text-align: left;
 }
