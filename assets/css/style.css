@@ -85,4 +85,15 @@ nav{
 
 #Contacto button{
     color: #fff;
+
+}
+footer{
+
+    color: #fff;
+    padding: 1em;
+}
+footer i{
+    font-size: 1.7em;
+    padding: 0.2em;
+
 }
