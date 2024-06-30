@@ -1,4 +1,4 @@
-body{
+body {
     background-color: black;
     font-family: 'Open Sans', sans-serif;
     text-align: center;
@@ -6,94 +6,101 @@ body{
     text-align: center;
     color: fff;
 }
-nav{
-    font-size: 1.2em; 
+nav {
+    font-size: 1.2em;
     color: #fff;
 }
 .navbar-title-white {
     color: white;
-    text-align:justify;
+    text-align: justify;
 }
-.navbar-menu{
+.navbar-menu {
     color: white;
 }
 .bordes-p {
     max-width: 90.4em;
     margin: 0 auto;
 }
-.carousel-item{
+.carousel-item {
     height: 100vh;
     min-height: 300px;
     background: no-repeat center center scroll;
     background-size: cover;
 }
-.parrafo{
+.parrafo {
     color: white;
-    text-align:left;
+    text-align: left;
 }
+
 .bordes-x {
     margin: 0 auto;
     border: 1px;
     background-color: black;
-   
 }
 .bordes-z {
     margin: 0 auto;
     border: 1px;
- 
+
     background-color: black;
     padding: 10px;
 }
-#Presentacion{
+#Presentacion {
     padding: 2em;
 }
-#Presentacion i{
+#Presentacion i {
     font-size: 1.7em;
     color: #fff;
 }
-#back-p{
+#back-p {
     background-color: black;
 }
 #titulos {
     color: #fff;
 }
+
 .custom-hr {
-    width: 45%; 
+    width: 45%;
     margin-left: auto;
     margin-right: auto;
-    
 }
-#Destacados{
+#Destacados {
     padding: 2em;
 }
-#Destacados div{
+
+#Destacados div {
     border: 0px;
-
-
 }
-#Destacados img{
+#Destacados img {
     height: 10em;
-} 
-#Destacados p{
+}
+#Destacados p {
     color: #fff;
     text-align: left;
 }
-#Contacto{
+#Contacto {
     color: #fff;
     text-align: left;
 }
-
-#Contacto button{
+#Contacto button {
     color: #fff;
 
 }
-footer{
-
+footer {
     color: #fff;
     padding: 1em;
 }
-footer i{
+footer i {
     font-size: 1.7em;
     padding: 0.2em;
 
+}
+.efectoimg {
+    overflow: hidden;
+}
+
+.efectoimgimg {
+    transition: transform .5s ease;
+}
+.efectoimg:hover img {
+    transform: scale(1.2);
 }
